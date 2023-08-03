@@ -1,8 +1,14 @@
+body{
+    background-color: gray;
+}
+header{
+    background-color: darkslateblue;
+}
 .hat{
     position: absolute;
     width: 350px;
     left: 240px;
-    border-top: solid 250px currentColor;
+    border-top: solid 170px currentColor;
     border-radius: 10% 10% 0 0;
     color: rgb(0, 0, 0);
 }
